@@ -4,3 +4,4 @@ it gets from the on program the information that he needs.
  
 In the File "Reflixibilidade" I have made a code that gets the information from the class by using Annotations and Reflexive programming and calculates the LCOO of the class.
 the user only needs to fill in the top of the methods of the class and Constructor what Attribute is used in that determined method or constructor, and the code will show the LCOO running the main.
+The code That calculates the LCOO is on the packege FrameWork.
