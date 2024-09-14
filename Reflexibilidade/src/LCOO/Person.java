@@ -1,7 +1,5 @@
 package LCOO;
 
-import FrameWork.Atribute;
-
 public class Person {
 
     private int id;
