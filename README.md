@@ -3,9 +3,9 @@ Reflective programming is a specific type of metaprogramming that refers to the 
 
 
 # My Exemples
-Framework-Persistence is a Framework that inserts and loads any object in The Database using reflexive programing. 
-it gets from the on program the information that he needs. I used MySQL in this case, but you can you whatever you want.
- 
-In the File "Reflixibilidade" I have made a code that gets the information from the class by using Annotations and Reflexive programming and calculates the LCOO of the class.
-the user only needs to fill in the top of the methods of the class and Constructor what Attribute is used in that determined method or constructor, and the code will show the LCOO running the main.
-The code is in the LCOO package.
+Framework-Persistence is a framework that inserts and loads any object into the database using reflective programming.
+It retrieves from the program itself the information it needs. I used MySQL in this case, but you can use any database you want.
+
+In the file named "Reflixibilidade", I wrote code that uses annotations and reflective programming to gather class information and calculate the LCOO (Lack of Cohesion in Operations) metric.
+The user only needs to annotate the methods and constructors with the attributes they use. Then, by running the main method, the code will display the LCOO.
+The code is located in the LCOO package.
